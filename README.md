@@ -7,5 +7,5 @@ Código responsável por gerenciar partidas do jogo da velha entre usuário e ma
 ## Como funciona?
 Após a escolha do usuário entre "X" e "O", o computador decide randomicamente quem inicia a partida.
 ### Jogadas:
-O computador funciona à base de comparações e dependendo de onde o usuário jogar o computador realiza uma jogaada diferente.
+O computador funciona à base de comparações e dependendo de onde o usuário jogar o computador realiza uma jogada diferente.
 A estratégia é baseada em aproveitar os erros do usuário para garantir a vitória. Na maioria dos casos se o usuário não cometer nenhum erro a partida termina empatada.
