@@ -9,3 +9,7 @@ Após a escolha do usuário entre "X" e "O", o computador decide randomicamente 
 ### Jogadas:
 O computador funciona à base de comparações e dependendo de onde o usuário jogar o computador realiza uma jogada diferente.
 A estratégia é baseada em aproveitar os erros do usuário para garantir a vitória. Na maioria dos casos se o usuário não cometer nenhum erro a partida termina empatada.
+
+
+edit: um dos primeiros programas que fiz. Completamente feito na força da gambiarra, mas funciona uns 99%. Tinha uns bugs que não lembro se foi corrigido
+obs.: não utilizo o algoritmo MiniMax, apenas centenas e if else.
